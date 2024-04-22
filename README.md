@@ -26,5 +26,36 @@ A new Flutter project.
   </a>
   </p>
 <hr>
+<h1 align="center">Task 4</h1>
+<p align ="center">
+  
+  <img src="https://github.com/Avesh6754/counter/assets/149478146/fab16e1c-7c80-4934-b674-a92423039d33" width="22%" Height="35%">
+  </a>
+  </p>
+<hr>
+
+<h1 align="center">Task 5</h1>
+<p align ="center">
+  
+  <img src="https://github.com/Avesh6754/counter/assets/149478146/3284d002-3a7b-4c4a-811e-175c5fa96c52" width="22%" Height="35%">
+  </a>
+  </p>
+<hr>
+
+<h1 align="center">Task 6</h1>
+<p align ="center">
+  
+  <img src="https://github.com/Avesh6754/counter/assets/149478146/796a96a0-e60f-4724-9038-2408f64fe3c7" width="22%" Height="35%">
+  </a>
+  </p>
+<hr>
+
+<h1 align="center">Task 7</h1>
+<p align ="center">
+  
+  <img src="https://github.com/Avesh6754/counter/assets/149478146/65fa109d-310f-4565-90aa-277dda062162" width="22%" Height="35%">
+  </a>
+  </p>
+<hr>
 
 
